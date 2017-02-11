@@ -28,7 +28,7 @@ hosts:
 # you need a static IP for your box.
 #
 # Values: "dhcp", or any valid IP
-ip: 10.86.73.80
+ip: 10.86.73.70
 
 # Ubuntu mirror to use during provisioning
 #
